@@ -19,7 +19,7 @@ other languages.
   <img src="//github.com/ebidel/filer.js/raw/master/demos/images/demo_screenshot.png" title="Demo app screenshot" alt="Demo app screenshot">
 </a>
 
-The HTML5 Filesystem API is only supported in Chrome, but Firefox 11+ supports storing data (including blobs) in its IndexedDB implementation. This fork will add support for that feature.
+The HTML5 Filesystem API is only supported in Chrome, but Firefox 11+ supports [storing data (including blobs) in its IndexedDB implementation](https://bugzilla.mozilla.org/show_bug.cgi?id=661877). This fork will add support for that feature.
 
 Getting started
 =======
